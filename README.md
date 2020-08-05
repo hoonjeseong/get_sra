@@ -2,7 +2,7 @@
 #### __Get Sequence Read Archive (SRA) data from Bioproject__
 
 - If you have any problems with downloading SRA data form NCBI BioProject (PRJNA) summary
-- It helps to get SRA data from SRS (sample) ID using web crawler.BeautifulSoup
+- It helps to get SRA data from SRS (sample) ID using BeautifulSoup
 - sra_result.csv (example: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA552603/)
 ----
 #### __Usage__
