@@ -1,7 +1,12 @@
 # get_sra from bioproject 
-Get Sequence Read Archive (SRA) data from Bioproject
+#### __Get Sequence Read Archive (SRA) data from Bioproject__
 
-- if you have any problem with downloading SRA data form NCBI BioProject (PRJNA)
-- it helps get SRA from SRS id
+- If you have any problems with downloading SRA data form NCBI BioProject (PRJNA) summary
+- It helps to get SRA data from SRS (sample) ID using web crawler.BeautifulSoup
 
-#### __prepare__
+
+----
+#### __require__
+- python3
+- beautifulsoup4 
+- sra tool kit (http://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/current/)
