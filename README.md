@@ -6,7 +6,7 @@
 - sra_result.csv (example: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA552603/)
 ----
 #### __Usage__
-`python download.SRA.py -i [sra_result.csv] -l WGS -o [output folder] -f [prefetch path from sra tool]`
+`python download.SRA.py -i [sra_result.csv] -l [WGS or AMPLICOM] -o [output folder] -f [prefetch path from sra tool]`
 
 ----
 #### __Require__
