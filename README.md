@@ -1,4 +1,4 @@
-# Get_sra from bioproject 
+# Get SRA data from BioProject 
 #### __Get Sequence Read Archive (SRA) data from Bioproject__
 
 - If you have any problems with downloading SRA data form NCBI BioProject (PRJNA) summary
